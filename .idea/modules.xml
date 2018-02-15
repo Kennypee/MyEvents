@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\EKENE\Desktop\Blogzone-master\Blogzone.iml" filepath="C:\Users\EKENE\Desktop\Blogzone-master\Blogzone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blogzone-master.iml" filepath="$PROJECT_DIR$/Blogzone-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\EKENE\Desktop\Blogzone-master\app\app.iml" filepath="C:\Users\EKENE\Desktop\Blogzone-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
